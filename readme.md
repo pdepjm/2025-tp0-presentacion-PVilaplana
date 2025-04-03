@@ -4,4 +4,4 @@
 
 ## Tengo tres mascotas, una perra y dos gatas, actualmente vivo con una de ellas Pipistrela
 
-![imagen de Pipi](./pipi.jpg)
+![imagen de Pipi](pipi.jpg)
